@@ -1,0 +1,4 @@
+#Mon Sep 16 01:48:18 BRT 2019
+base.0=/Users/ramonrabello/AndroidStudioProjects/ViewBindingSample/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
